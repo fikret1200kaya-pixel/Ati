@@ -1,0 +1,42 @@
+{
+  "tr": {
+    "description": "ATİ, Windows masaüstünde yaşayan sevimli bir yapay zekâ arkadaşı. Ne istediğini yaz ya da sadece “Hey ATİ” de; gerisini o halletsin.\n\nSÖYLE, ATİ YAPSIN\nMenülerle, ayarlarla uğraşma. “YouTube’u aç”, “lofi müzik ara”, “Photoshop’u aç” de; site ve uygulamalar bir saniyede açılır.\n\nSENİN YERİNE HATIRLAR\n“Yarın 9’da su içmeyi hatırlat.” Hatırlatmalar, tekrarlayan görevler, takvimin ve sabah özetin tek yerde.\n\nHER UYGULAMADA YAZI YARDIMI\nHerhangi bir uygulamada metni seç, Ctrl+Shift+Y’ye bas: düzeltilmiş, kısaltılmış, çevrilmiş ya da yeniden yazılmış hali hazır.\n\nSESLİ EKRAN KAYDI\nTek tıkla ekranını, sistem sesini ve mikrofonunu MP4 olarak kaydet.\n\nBELGELERİNİ OKUR\nPDF, Word, PowerPoint ya da Excel dosyası hakkında soru sor, net bir özet al.\n\nBİLGİSAYARINI YÖNETİR\nSes, parlaklık, karanlık mod, pencere düzenleri, dosya bulma, İndirilenler temizliği ve rutinler.\n\n“HEY ATİ”\nATİ adını duyunca uyanır; uyandırma sözü internetsiz, bilgisayarında tanınır. Hava durumunu, günün planını ya da son haberleri klavyeye dokunmadan sor.\n\nSOHBET ROBOTU DEĞİL, ARKADAŞ\nATİ masaüstünde gerçek ifadelerle durur: el sallar, düşünür, sevinir, dans eder. Uzun süre çalıştığında mola vermeni hatırlatır. Renkler, formalar ve aksesuarlarla onu kendine göre giydir.\n\nYAPAY ZEKÂ BAĞLANTISI\nSite/uygulama açma, hatırlatmalar, takvim, ekran kaydı, bilgisayar komutları ve “Hey ATİ” yapay zekâ bağlamadan da çalışır. Serbest sohbet, yazı yardımı ve belge özetleri için seçtiğin bir yapay zekâ sağlayıcısını bağlarsın: Google Gemini (ücretsiz anahtar), ChatGPT Plus/Pro hesabın, Anthropic Claude, OpenAI ya da Ollama ile tamamen internetsiz. Sağlayıcının kendi kullanım koşulları ve olası ücretleri geçerlidir.\n\nGİZLİLİK\nNotların, hatırlatmaların ve ayarların bilgisayarında kalır. Sorduğun açık uçlu sorular yalnızca senin seçtiğin yapay zekâ sağlayıcısına gönderilir.\n\n7 gün ücretsiz dene; tüm özellikler açık.",
+    "short": "Windows masaüstünde yaşayan yapay zekâ arkadaşın. Yaz ya da “Hey ATİ” de: siteleri ve uygulamaları açar, hatırlatır, takvimini tutar, her uygulamada yazına yardım eder, ekranını sesle kaydeder ve belgelerini özetler. Türkçe ve İngilizce.",
+    "features": [
+      "“Hey ATİ” sesli uyandırma (internetsiz algılama)",
+      "Siteleri ve uygulamaları tek komutla açar",
+      "Hatırlatmalar, tekrarlayan görevler ve takvim",
+      "Her uygulamada yazı yardımı (Ctrl+Shift+Y)",
+      "Sistem sesi ve mikrofonla ekran kaydı (MP4)",
+      "PDF, Word, PowerPoint ve Excel belge özetleri",
+      "Ses, parlaklık, karanlık mod ve pencere düzeni komutları",
+      "Rutinler: tek komutla birden fazla iş",
+      "Notlar, odak sayacı ve günlük özet",
+      "Gemini, ChatGPT, Claude, OpenAI ya da internetsiz Ollama",
+      "Kişiselleştirilebilir görünüm: renkler, formalar, aksesuarlar",
+      "Türkçe ve İngilizce arayüz ve ses"
+    ],
+    "keywords": ["yapay zeka asistan", "masaüstü asistanı", "sesli asistan", "hatırlatıcı", "ekran kaydı", "verimlilik", "chatgpt"],
+    "captions": ["Masaüstündeki yapay zekâ arkadaşın", "Günün tek bakışta", "Söyle, ATİ yapsın", "Rutinlerini otomatikleştir", "Bilgisayarını yönet", "Takvimin ve hatırlatmaların", "ATİ’yi kendine göre giydir"]
+  },
+  "en": {
+    "description": "ATİ is a friendly AI companion that lives on your Windows desktop. Type what you need, or just say “Hey ATİ” — it takes care of the rest.\n\nSAY IT. ATİ DOES IT.\nNo menus, no hunting for settings. “Open YouTube”, “search lofi music”, “open Photoshop” — sites and apps open in a second.\n\nREMEMBERS FOR YOU\n“Remind me to drink water tomorrow at 9.” Reminders, recurring tasks, your calendar and a morning brief in one place.\n\nWRITING HELP EVERYWHERE\nSelect text in any app and press Ctrl+Shift+Y — fixed, shortened, translated or rewritten.\n\nSCREEN RECORDING WITH SOUND\nOne click records your screen, system audio and microphone to MP4.\n\nREADS YOUR DOCUMENTS\nAsk questions about a PDF, Word, PowerPoint or Excel file and get a clear summary.\n\nMANAGES YOUR PC\nVolume, brightness, dark mode, window layouts, finding files, cleaning up Downloads and routines.\n\n“HEY ATİ”\nATİ listens for its name — the wake word is detected offline on your PC. Ask for the weather, today’s agenda or the latest headlines without touching the keyboard.\n\nA COMPANION, NOT A CHATBOT\nATİ sits on your desktop with real expressions — it waves, thinks, celebrates and dances. It reminds you to take a break when you’ve been at it too long. Dress it up with colours, outfits and accessories.\n\nCONNECTING AN AI\nOpening sites and apps, reminders, calendar, screen recording, PC commands and “Hey ATİ” all work without an AI connection. For free-form chat, writing help and document summaries, connect the AI provider of your choice: Google Gemini (free key), your ChatGPT Plus/Pro account, Anthropic Claude, OpenAI, or fully offline with Ollama. The provider’s own terms and any fees apply.\n\nPRIVACY\nYour notes, reminders and settings stay on your PC. Open questions are sent only to the AI provider you choose.\n\nTry it free for 7 days — every feature included.",
+    "short": "Your AI companion for the Windows desktop. Type or just say “Hey ATİ”: it opens sites and apps, sets reminders, keeps your calendar, helps you write in any app, records your screen with sound and summarises documents. English and Turkish.",
+    "features": [
+      "“Hey ATİ” wake word (detected offline)",
+      "Opens sites and apps with one command",
+      "Reminders, recurring tasks and calendar",
+      "Writing help in any app (Ctrl+Shift+Y)",
+      "Screen recording with system audio and mic (MP4)",
+      "Summaries of PDF, Word, PowerPoint and Excel files",
+      "Volume, brightness, dark mode and window layout commands",
+      "Routines: several tasks with one command",
+      "Notes, focus timer and daily brief",
+      "Gemini, ChatGPT, Claude, OpenAI or offline Ollama",
+      "Customisable look: colours, outfits, accessories",
+      "English and Turkish interface and voice"
+    ],
+    "keywords": ["AI assistant", "desktop assistant", "voice assistant", "reminders", "screen recorder", "productivity", "chatgpt"],
+    "captions": ["Your AI companion for the desktop", "Your day at a glance", "Up and running in a minute", "Connect the AI you prefer", "Turkish and English", "Make ATİ your own"]
+  }
+}
