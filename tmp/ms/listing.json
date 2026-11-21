@@ -1,0 +1,14 @@
+{
+"tr": {
+"desc": "Triwood, ahşap üçgen parçalardan oluşan sakin ve zekice bir bulmaca oyunudur. Renkli parçaları sürükle, doğru yere oturt ve tahtayı eksiksiz doldur!\n\nNASIL OYNANIR\n• Parçaları fareyle ya da dokunarak ahşap kalıba sürükle.\n• Tahtadaki bütün boşlukları doldurduğunda bölüm biter.\n• İlerledikçe parçalar dönmeye başlar: döndürmek için parçaya tıkla.\n• Takıldığında ipucu kullan.\n\nÖZELLİKLER\n• Kolaydan zora yüzlerce el yapımı bölüm\n• Dört oyun modu: Klasik, Meydan Okuma, Günlük Bulmaca ve Sonsuz\n• Günlük görevler, seri ödülleri ve başarımlar\n• Sıcak ahşap görünüm, yumuşak sesler ve sakin müzik\n• Reklam yok\n• İnternetsiz oynanabilir\n• Türkçe ve İngilizce\n\nÜcretsiz deneme sürümünde ilk 20 bölümü oynayabilirsin. Beğenirsen tam sürümü tek seferlik satın alarak bütün bölümleri açarsın.",
+"features": ["Yüzlerce el yapımı ahşap üçgen bulmaca","Klasik, Meydan Okuma, Günlük Bulmaca ve Sonsuz mod","Günlük görevler, seri ödülleri ve başarımlar","Reklamsız, internetsiz oynanır","Ücretsiz deneme: ilk 20 bölüm"],
+"short": "Ahşap üçgen parçaları kalıba yerleştir. Rahatlatan, akıllı bir yapboz.",
+"keywords": ["bulmaca","yapboz","üçgen","ahşap","blok bulmaca","rahatlatıcı","zeka oyunu"]
+},
+"en": {
+"desc": "Triwood is a calm and clever puzzle game made of wooden triangle pieces. Drag the colorful pieces, snap them into place and fill the whole board!\n\nHOW TO PLAY\n• Drag pieces onto the wooden board with mouse or touch.\n• Fill every gap to complete the level.\n• As you progress, pieces start to rotate: click a piece to turn it.\n• Stuck? Use a hint.\n\nFEATURES\n• Hundreds of handcrafted levels from easy to tricky\n• Four modes: Classic, Challenge, Daily Puzzle and Endless\n• Daily quests, streak rewards and achievements\n• Warm wooden look, soft sounds and relaxing music\n• No ads\n• Works offline\n• English and Turkish\n\nThe free trial lets you play the first 20 levels. If you like it, buy the full version once to unlock every level.",
+"features": ["Hundreds of handcrafted wooden triangle puzzles","Classic, Challenge, Daily Puzzle and Endless modes","Daily quests, streak rewards and achievements","No ads, plays offline","Free trial: first 20 levels"],
+"short": "Fit wooden triangle pieces into the board. A calm, clever block puzzle.",
+"keywords": ["puzzle","block puzzle","triangle","wood","relaxing","brain game","tangram"]
+}
+}
